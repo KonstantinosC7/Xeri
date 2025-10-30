@@ -1,4 +1,4 @@
-// Pavlos Basoukeas, AM: 5296
+// Konstantinos Christopoulos, AM: 4527
 public class Card {
     private String suit; // color of the card : 
     					// Spade (Mpastouni)->"S", 

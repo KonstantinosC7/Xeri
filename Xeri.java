@@ -1,4 +1,4 @@
-// Pavlos Basoukeas, AM: 5296
+// Konstantinos Christopoulos, AM: 4527
 public class Xeri {
     public static void main(String[] args) {
         // initialize players

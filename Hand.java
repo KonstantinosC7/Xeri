@@ -1,4 +1,4 @@
-// Pavlos Basoukeas, AM: 5296
+// Konstantinos Christopoulos, AM: 4527
 import java.util.ArrayList;
 import java.util.Random;
 
